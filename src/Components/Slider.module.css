@@ -1,0 +1,61 @@
+
+
+.title {
+   font-family: 'Orchidea Pro';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 48px;
+   line-height: 110%;
+   text-transform: uppercase;
+
+   margin-top: 160px;
+   margin-bottom: 123px;
+   margin-left: 261px;
+}
+
+.img {
+   overflow: hidden;
+   width: 320px; 
+   height: 489px;
+}
+
+.cardImg{
+   width: 320px;
+   height: 100%;
+   margin-right: 40px;
+}
+
+.cardImg :first-child {
+   margin-right: 261px;
+}
+.cardImg :last-child {
+   margin-left: 261px;
+}
+
+
+@media (max-width: 500px) {
+   
+   .cardImg{
+      width: 226px
+   }
+
+   .img {
+      width: 225.35px; 
+      height: 344.29px;
+   }
+   
+   .cardImg :first-child {
+      margin-right: 20px;
+   }
+   .cardImg :last-child {
+      margin-left: 20px;
+   }
+
+   .title {
+      width: 200px;
+      font-size: 24px;
+      font-style: normal;
+      line-height: 130%;
+      margin: 70px 20px 56px 20px;
+   }
+ }

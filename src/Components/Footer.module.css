@@ -1,0 +1,13 @@
+.pageFooter{
+   height: 200px;
+   background: #141414;
+   padding-bottom: 18px;
+
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+}
+
+.container{
+   color:#FFFFFF;
+}
