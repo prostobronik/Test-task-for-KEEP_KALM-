@@ -1,4 +1,6 @@
-
+.slider {
+ margin-top: 160px;
+}
 
 .title {
    font-family: 'Orchidea Pro';
@@ -8,7 +10,7 @@
    line-height: 110%;
    text-transform: uppercase;
 
-   margin-top: 160px;
+   
    margin-bottom: 123px;
    margin-left: 261px;
 }
@@ -59,3 +61,18 @@
       margin: 70px 20px 56px 20px;
    }
  }
+
+ 
+
+
+ @media (hover: none), (pointer:coarse), (-moz-touch-enabled: 1) {
+   .scrollHorizontal {
+       overflow: scroll !important;
+       overflow: overlay !important;
+       overflow-x: scroll !important;
+       overflow-x: overlay !important;
+       overflow-y: hidden !important;
+       -ms-overflow-style: none !important;
+       scrollbar-width: none !important;
+   }
+}
