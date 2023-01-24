@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/Test-task-for-KEEP_KALM-/static/css/main.3a2dc6c2.css",
-    "main.js": "/Test-task-for-KEEP_KALM-/static/js/main.b23226f5.js",
+    "main.css": "/Test-task-for-KEEP_KALM-/static/css/main.99989384.css",
+    "main.js": "/Test-task-for-KEEP_KALM-/static/js/main.ff38c82b.js",
     "static/media/julia.png": "/Test-task-for-KEEP_KALM-/static/media/julia.4808e1f195547038a7e7.png",
     "static/media/7.png": "/Test-task-for-KEEP_KALM-/static/media/7.0e79f2cc3f84080ea105.png",
     "static/media/3.png": "/Test-task-for-KEEP_KALM-/static/media/3.4f8633ada7c81244f211.png",
     "static/media/4.png": "/Test-task-for-KEEP_KALM-/static/media/4.c5f3ae1bc212dbbf6b5c.png",
+    "static/media/taisiia1.png": "/Test-task-for-KEEP_KALM-/static/media/taisiia1.37bfae55cabeca7c4ce4.png",
     "static/media/8.png": "/Test-task-for-KEEP_KALM-/static/media/8.d9a5ba12649e8cf02662.png",
+    "static/media/taisiia2.png": "/Test-task-for-KEEP_KALM-/static/media/taisiia2.d737421272ea84785f59.png",
     "static/media/1.png": "/Test-task-for-KEEP_KALM-/static/media/1.816d1cb934281ea3b311.png",
     "static/media/6.png": "/Test-task-for-KEEP_KALM-/static/media/6.b5872ac1e8e0b4185781.png",
+    "static/media/julia2.png": "/Test-task-for-KEEP_KALM-/static/media/julia2.c6bb6959701b34f40085.png",
     "static/media/5.png": "/Test-task-for-KEEP_KALM-/static/media/5.c3764752233d07f02f43.png",
     "static/media/2.png": "/Test-task-for-KEEP_KALM-/static/media/2.04c25f4ce281ccd3fe1b.png",
     "static/media/Circeya.svg": "/Test-task-for-KEEP_KALM-/static/media/Circeya.9a6eca2e5d8f184da8aefd36d0b33f55.svg",
     "static/media/Vector.svg": "/Test-task-for-KEEP_KALM-/static/media/Vector.5a9f5b4f6f14c624aa604859fad98b0d.svg",
     "index.html": "/Test-task-for-KEEP_KALM-/index.html",
     "static/media/Logo.svg": "/Test-task-for-KEEP_KALM-/static/media/Logo.3f2cad67eb84f220ce3a89ac59b1fe25.svg",
-    "main.3a2dc6c2.css.map": "/Test-task-for-KEEP_KALM-/static/css/main.3a2dc6c2.css.map",
-    "main.b23226f5.js.map": "/Test-task-for-KEEP_KALM-/static/js/main.b23226f5.js.map"
+    "main.99989384.css.map": "/Test-task-for-KEEP_KALM-/static/css/main.99989384.css.map",
+    "main.ff38c82b.js.map": "/Test-task-for-KEEP_KALM-/static/js/main.ff38c82b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a2dc6c2.css",
-    "static/js/main.b23226f5.js"
+    "static/css/main.99989384.css",
+    "static/js/main.ff38c82b.js"
   ]
 }
