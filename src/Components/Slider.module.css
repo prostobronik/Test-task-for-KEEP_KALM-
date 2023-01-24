@@ -13,7 +13,6 @@
 
    font-family: 'Orchidea Pro';
    font-style: normal;
-   font-weight: 500;
    font-size: 48px;
    line-height: 110%;
    text-transform: uppercase;
@@ -27,13 +26,12 @@
    overflow: hidden;
 
    transform: scale(1.05);
-
    transition: transform 2s ease-in-out;
 }
 
 .img:hover {
    transform: scale(1.2);
-   transition-duration: 7s;
+   transition-duration: 5s;
 }
 
 .cardImg{
