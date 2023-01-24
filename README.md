@@ -2,7 +2,7 @@
 
 (компания Keep Calm)
 
-## Инфомрация о проекте:
+## Информация о проекте:
 
 1. Создание страницы из проекта по макету Figma
 
@@ -11,8 +11,8 @@
 
 ### Инструкция по запуску проекта:
 
-1. git clone `https://github.com/prostobronik/Test-task-for-KEEP_KALM-.git` (клоинрвоание репозитория)
-2. git init - устанвока зависимостей
+1. git clone <a href = "[https://prostobronik.github.io/Test-task-for-KEEP_KALM-/]">https://github.com/prostobronik/Test-task-for-KEEP_KALM-.git</a> (клонирование репозитория)
+2. git init - установка зависимостей
 3. npm start - старт проекта
 
 ### :hammer_and_wrench: Используемые технологии:
