@@ -11,7 +11,7 @@
 
 ### Инструкция по запуску проекта:
 
-1. git clone `https://github.com/prostobronik/Test-task-for-KEEP_KALM-.git` (клонирование репозитория)
+1. git clone ``<a href = "[https://prostobronik.github.io/Test-task-for-KEEP_KALM-/](https://github.com/prostobronik/Test-task-for-KEEP_KALM-.git)"></a> (клонирование репозитория)
 2. git init - установка зависимостей
 3. npm start - старт проекта
 
