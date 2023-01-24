@@ -1,12 +1,12 @@
-import Footer from './Components/layout/Footer'
-import Header from './Components/layout/Header'
-import BlockOne from './Components/BlockOne'
-import ScrollingHorizontally from './Components/Slider'
+import Footer from './components/layout/Footer'
+import Header from './components/layout/Header'
+import BlockOne from './components/BlockOne'
+import ScrollingHorizontally from './components/Slider'
 import julia1 from './assets/main/julia.png'
 import julia2 from './assets/main/julia2.png'
 import taisia1 from './assets/main/taisiia1.png'
 import taisia2 from './assets/main/taisiia2.png'
-import BlockTu from './Components/BlockTu'
+import BlockTu from './components/BlockTu'
 
 function App() {
   return (

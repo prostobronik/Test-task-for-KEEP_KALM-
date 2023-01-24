@@ -1,13 +1,12 @@
 .pageFooter{
-   height: 200px;
-   background: #141414;
-   padding-bottom: 18px;
-
    display: flex;
    justify-content: center;
    align-items: flex-end;
-
+  
+   height: 200px;
    margin-top: 160px;
+   padding-bottom: 18px;
+   background: #141414;
 }
 
 .container{

@@ -1,19 +1,17 @@
 .conteiner {
-   /* margin-top: 200px; */
    font-family: 'Orchidea Pro';
    font-style: normal;
    font-weight: 500;
    font-size: 48px;
 }
 
-.conteiner h2 {
+.conteinerTitle {
    margin-left: 260px;
+   margin-bottom: 123px;
+
    line-height: 130%;
    text-transform: uppercase;
-
-   margin-bottom: 123px;
 }
-
 
 .content {
    display: flex;
@@ -22,27 +20,27 @@
    gap: 128px;
 }
 
-.contentImg {
+.contentCards {
    width: 860px;
    height: 480px;
    overflow: hidden;
 }
 
-.contentImg img{
+.contentImg{
    width: 100%;
    height: 100%;
    object-fit: cover;
 }
 
 @media only screen and (max-width: 1200px) {
-   .conteiner h2 {
+   .conteinerTitle {
       max-width: 335px;
       margin-left: 20px;
-      font-size: 24px;
       margin-bottom: 64px;
+      font-size: 24px;
    }
 
-   .contentImg{
+   .contentCards{
       max-width: 100%;
       margin-right: 0;
    }
@@ -50,6 +48,6 @@
       margin-bottom: 56px;
    }
    .content {
-      gap :40px
+      gap :40px;
    }
 }

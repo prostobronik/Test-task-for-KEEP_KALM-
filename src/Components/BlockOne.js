@@ -1,13 +1,16 @@
 import styles from './BlockOne.module.css'
-import ContentCard from './Card/ContentCard'
+import ContentCard from './card/ContentCard'
 
 const BlockOne = (props) => {
+  const { photo } = props
   return (
     <div className={styles.conteiner}>
-      <h2>ut aliquip ex ea commodo consequat</h2>
+      <h2 className={styles.conteinerTitle}>
+        ut aliquip ex ea commodo consequat
+      </h2>
       <div className={styles.content}>
-        <div className={styles.contentImg}>
-          <img src={props.photo} alt="Julia" />
+        <div className={styles.contentCards}>
+          <img src={photo} className={styles.contentImg} alt="Julia" />
         </div>
         <ContentCard />
       </div>

@@ -12,9 +12,9 @@ const ScrollingHorizontally = () => {
           reverseScroll={true}
           className={styles.scrollHorizontal}
         >
-          {photoSlider.map((photo, i) => (
-            <div className={styles.cardImg}>
-              <img className={styles.img} src={photo} alt="Слайдер" key={i} />
+          {photoSlider.map((photo, index) => (
+            <div className={styles.cardImg} key={index}>
+              <img className={styles.img} src={photo} alt="Слайдер" />
             </div>
           ))}
         </HorizontalScroll>
