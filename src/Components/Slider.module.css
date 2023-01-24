@@ -25,6 +25,15 @@
    height: 489px;
 
    overflow: hidden;
+
+   transform: scale(1.05);
+
+   transition: transform 2s ease-in-out;
+}
+
+.img:hover {
+   transform: scale(1.2);
+   transition-duration: 7s;
 }
 
 .cardImg{
