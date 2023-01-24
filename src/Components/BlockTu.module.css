@@ -1,0 +1,46 @@
+.conteiner {
+   font-family: 'Orchidea Pro';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 48px;
+
+   margin-top: 120px;
+   margin-left: 262px;
+}
+
+.content {
+   display: flex;
+   align-items: center;
+   flex-flow: row wrap-reverse; 
+   gap: 123px;
+
+}
+
+.contentImg {
+   width: 599px;
+   height: 411px;
+   margin-right: 128px;
+   overflow: hidden;
+   
+}
+.contentImg img{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+@media only screen and (max-width: 1200px) {
+   .conteiner  {
+      margin-top: 56px;
+      margin-left: 0;
+   }
+
+   .contentImg{
+      max-width: 100%;
+      margin-right: 0;
+   }
+   .content {
+      gap:40px
+   }
+   
+}

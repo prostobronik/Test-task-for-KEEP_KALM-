@@ -1,0 +1,32 @@
+.contentTitle{
+   margin-bottom: 25px;
+   width: 600px;
+   line-height: 110%;
+}
+.contentCard {
+   width: 600px;
+}
+
+.contentText{
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 130%;
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+   .contentCard {
+      width: 100%;
+      margin: 0 20px;
+   }
+   .contentTitle {
+      max-width: 335px;
+      font-size: 24px;
+   }
+   .contentText{
+      font-size: 14px;
+   }
+}

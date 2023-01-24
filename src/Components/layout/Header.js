@@ -1,7 +1,7 @@
 import styles from './Header.module.css'
-import Logo from '../assets/header/Logo.svg'
-import Circeya from '../assets/header/Circeya.svg'
-import Vector from '../assets/header/Vector.svg'
+import Logo from '../../assets/header/Logo.svg'
+import Circeya from '../../assets/header/Circeya.svg'
+import Vector from '../../assets/header/Vector.svg'
 
 const Header = () => {
   return (

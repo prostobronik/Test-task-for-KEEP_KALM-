@@ -7,7 +7,7 @@ const ScrollingHorizontally = () => {
   return (
     <div className={styles.slider}>
       <h2 className={styles.title}>Lorem ipsum dolor sit amet</h2>
-      <div style={{ height: `489px` }}>
+      <div className={styles.slaiderBlock}>
         <HorizontalScroll
           reverseScroll={true}
           className={styles.scrollHorizontal}

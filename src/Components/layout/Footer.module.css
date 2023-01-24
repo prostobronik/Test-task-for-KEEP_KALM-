@@ -6,8 +6,16 @@
    display: flex;
    justify-content: center;
    align-items: flex-end;
+
+   margin-top: 160px;
 }
 
 .container{
    color:#FFFFFF;
+}
+
+@media only screen and (max-width: 1200px) {
+   .pageFooter {
+      margin-top: 80px;
+   }
 }
